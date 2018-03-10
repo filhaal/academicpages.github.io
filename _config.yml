@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Mohit Sinha"
+title                    : ""
 title_separator          : "-"
 #name                     : &name "Mohit Sinha"
 #description              : &description "PhD Candidate at University of Minnesota"
