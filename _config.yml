@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    :  "profile_filhaal.png"
+title                    :  "Mohit Sinha"
 title_separator          : "-"
 #name                     : &name "Mohit Sinha"
 #description              : &description "PhD Candidate at University of Minnesota"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohit Sinha"
+  name             : ""
   avatar           : "profile_filhaal.png"
   bio              : "PhD Candidate, Electrical Engineering"
   location         : "Minneapolis"
