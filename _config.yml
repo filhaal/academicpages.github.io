@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Mohit Sinha"
   avatar           : "profile_filhaal.jpg"
-  bio              : ""
-  location         : "Minneapolis"
+  bio              : 
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=bIhJ-UkAAAAJ&hl=en&authuser=2"
   email            :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
