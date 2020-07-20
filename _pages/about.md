@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I work as a Senior Engineer in the CTO group at Enphase.  
+I work as a Senior Engineer in the CTO group at [Enphase](https://enphase.com/).  
 
 Before joining Enphase, I spent five wonderful years at University of Minnesota, Twin Cities as a graduate student
 in the [Electrical and Computer Engineering Department](https://ece.umn.edu/), advised by Prof. [Sairaj Dhople](https://sairajdhople.umn.edu/). 
